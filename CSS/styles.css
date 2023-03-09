@@ -1,0 +1,114 @@
+body{
+  margin: 0;
+ text-align: center;
+}
+
+h1{
+
+  font-family: 'Dancing Script',cursive;
+  width: 100%;
+  margin:0 auto 0 auto;
+  color:#66BFBF;
+  line-height:4;
+
+}
+
+h2{
+  font-weight:normal;
+  color:#66BFBF;
+}
+.para{
+  font-family: 'Dancing Script',cursive;
+  font-size: 2.53rem;
+  color:#66BFBF;
+  font-weight: normal;
+}
+h3{
+  color:#11999E;
+}
+.top{
+
+background-color: #EAF6F6;
+  padding-top: 100px;
+}
+
+.middle-container{
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+    height:100px;
+ padding-top: 20px;
+
+
+
+}
+.Bharat{
+  text-decoration:underline;
+
+}
+.top-image{
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+.bottom-image{
+  position: absolute;
+  top:200px;
+}
+.footer-link{
+  text-decoration: none;
+  margin-top:20px;
+  color:#11999E;
+  margin-right:20px;
+}
+.coding{
+  color:#11999E;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.imgskill1{
+  width:30%;
+  float:left;
+  margin-right:30px;
+}
+.imgskill2{
+  width:30%;
+  float:right;
+  margin-left: 30px;
+}
+.clear-right{
+float:left;
+  margin-left: 20px
+}
+.profile{
+
+  width:30%;
+  margin:auto;
+}
+.pro{
+  color: #40514E;
+}
+.contact-me{
+  width:50%;
+  margin:auto;
+}
+hr{
+  border:dotted #EAF6F6 6px;
+  width:10%;
+  border-bottom: none;
+}
+button{
+  background-color:#11999E;
+  margin:20px auto 20px auto;
+}
+.btn{
+  text-decoration: none;
+  color:white;
+}
